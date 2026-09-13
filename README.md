@@ -1,2 +1,2 @@
-# cpp-java-programs
-Collection of my C++ and Java programs for learning and college practice.
+# cpp-programs
+Collection of my C++  programs for learning and college practice.
